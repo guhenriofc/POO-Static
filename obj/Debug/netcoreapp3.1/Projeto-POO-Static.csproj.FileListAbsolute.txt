@@ -1,0 +1,13 @@
+G:\Backend\Console\Projeto-POO-Static\bin\Debug\netcoreapp3.1\Projeto-POO-Static.exe
+G:\Backend\Console\Projeto-POO-Static\bin\Debug\netcoreapp3.1\Projeto-POO-Static.deps.json
+G:\Backend\Console\Projeto-POO-Static\bin\Debug\netcoreapp3.1\Projeto-POO-Static.runtimeconfig.json
+G:\Backend\Console\Projeto-POO-Static\bin\Debug\netcoreapp3.1\Projeto-POO-Static.runtimeconfig.dev.json
+G:\Backend\Console\Projeto-POO-Static\bin\Debug\netcoreapp3.1\Projeto-POO-Static.dll
+G:\Backend\Console\Projeto-POO-Static\bin\Debug\netcoreapp3.1\Projeto-POO-Static.pdb
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.csprojAssemblyReference.cache
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.AssemblyInfoInputs.cache
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.AssemblyInfo.cs
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.csproj.CoreCompileInputs.cache
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.dll
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.pdb
+G:\Backend\Console\Projeto-POO-Static\obj\Debug\netcoreapp3.1\Projeto-POO-Static.genruntimeconfig.cache
